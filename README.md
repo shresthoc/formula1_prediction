@@ -40,7 +40,7 @@ For each Grand Prix in the 2025 F1 season, this project:
 
 > Each script is modular and can run independently to predict a specific Grand Prix using up-to-date inputs.
 
-Includes visualizations:
+Includes visualisations:
 
 - Clean air race pace vs predicted time
 - Feature importance (qualifying, weather, team, etc.)
@@ -49,5 +49,5 @@ Includes visualizations:
 
 - Automate clean-air stint detection from full race data
 - Include tire strategy and pit stop modeling
-- Build a Streamlit or Gradio interface for live predictions
+- Build a Streamlit or Gradio interface for live predictions (maybe something similar to f1-dash in the future>)
 - Explore classification models for podium/points range prediction
