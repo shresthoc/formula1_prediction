@@ -1,6 +1,13 @@
 # 🏎️ F1 Race Outcome Predictor – 2025 Season
 
-This repository contains Python scripts to **predict the outcome of Formula 1 races** using real-world data and machine learning models. The system leverages [FastF1](https://theoehrly.github.io/Fast-F1/) for race telemetry, [OpenWeatherMap](https://openweathermap.org/api) for weather data, and scikit-learn for training regression models that estimate driver race performance.
+This is a small personal project I started out of my love for Formula 1. I've been a fan of the sport for years, always fascinated by how so many factors—lap times, team performance, weather conditions, qualifying results—come together to shape the outcome of a race.
+
+The idea for this project came after I stumbled upon a YouTube Short where someone tried predicting football match outcomes using machine learning. That instantly got me thinking—“Why not do something similar for F1?” With access to FastF1 data and weather APIs, and some background in data analysis and ML, I decided to give it a go.
+
+This repository contains Python scripts that try to predict race results using real telemetry data (via [FastF1](https://theoehrly.github.io/Fast-F1/)), weather forecasts (via [OpenWeatherMap](https://openweathermap.org/api)), and a regression model trained with scikit-learn. It’s by no means perfect, but it’s been a fun learning experience, and surprisingly accurate at times.
+
+Hope you find it interesting!
+
 
 ## 💡 Project Overview
 
