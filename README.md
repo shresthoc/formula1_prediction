@@ -1,6 +1,6 @@
 # 🏎️ F1 Race Outcome Predictor – 2025 Season
 
-This is a small personal project I started out of my love for Formula 1. I've been a fan of the sport for years, always fascinated by how so many factors—lap times, team performance, weather conditions, qualifying results—come together to shape the outcome of a race.
+This is a small personal project I started out of my love for Formula 1. I've been a fan of the sport for a few years now, and have been fascinated by how so many factors - lap times, team performance, weather conditions, qualifying results etc. come together to shape the outcome of a race.
 
 The idea for this project came after I stumbled upon a YouTube Short where someone tried predicting football match outcomes using machine learning. That instantly got me thinking—“Why not do something similar for F1?” With access to FastF1 data and weather APIs, and some background in data analysis and ML, I decided to give it a go.
 
