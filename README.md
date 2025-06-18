@@ -42,12 +42,12 @@ For each Grand Prix in the 2025 F1 season, this project:
 
 Includes visualizations:
 
-Clean air race pace vs predicted time
-Feature importance (qualifying, weather, team, etc.)
+- Clean air race pace vs predicted time
+- Feature importance (qualifying, weather, team, etc.)
 
 ## 🚀 Future Improvements
 
-Automate clean-air stint detection from full race data
-Include tire strategy and pit stop modeling
-Build a Streamlit or Gradio interface for live predictions
-Explore classification models for podium/points range prediction
+- Automate clean-air stint detection from full race data
+- Include tire strategy and pit stop modeling
+- Build a Streamlit or Gradio interface for live predictions
+- Explore classification models for podium/points range prediction
